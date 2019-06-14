@@ -1,3 +1,5 @@
+#Taylor your grade is 15/20: Yo have to push this to Markus repository to get 20/20
+
 # Homework 10
 
 You will fill out the following
